@@ -32,3 +32,6 @@ The model utilizes the **Iris Dataset**, a standard benchmark in machine learnin
 * Data splitting and model training.
 * Performance evaluation using accuracy score and classification reports.
 * A high-resolution visualization of the generated Decision Tree.
+
+## Output
+<img width="1189" height="790" alt="Image" src="https://github.com/user-attachments/assets/0eda2d76-9fb6-4650-9c9f-c80bca8b16dc" />
